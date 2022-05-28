@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on to brushing up my skills
 - 🌱 I’m currently learning Dart and Flutter
 - 👯 I’m looking to collaborate on JavaScript projects
-- 💬 Ask me about HTML, CSS,Python and JavaScript
+- 💬 Ask me about HTML, CSS,Go ,PHP laravel
 - 📫 How to reach me: <a href="mailto:smithheinrich254@gmail.com">smithheinrich254@gmail.com</a>
 - ⚡ Fun fact: Nothing is impossible under the sky
 

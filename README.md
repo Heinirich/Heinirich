@@ -39,14 +39,14 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp><b>Currently at Bambanet Technologies in Kenya as Mid-Level Web Dev</b>
-- 🔭 <samp>Degree in Information Technology
-- 🧑🏽 <samp><b>Founder of Upcoming QashedIn in 2022</b>
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about HTml/css/PHP-LARAVEL/Golang/Js/Linux/Cloud-Computing
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: 1+1=11
-- ♟ <samp>I read a lot of programming materials..
+- 👷 <samp><b>Currently at Bambanet Technologies in Kenya as Mid-Level Web Dev</b> <br>
+- 🔭 <samp>Degree in Information Technology<br>
+- 🧑🏽 <samp><b>Founder of Upcoming QashedIn in 2022</b><br>
+- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.<br>
+- 💬 <samp>Ask me about HTml/css/PHP-LARAVEL/Golang/Js/Linux/Cloud-Computing<br>
+- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming<br>
+- ⚡ <samp>Fun fact: 1+1=11<br>
+- ♟ <samp>I read a lot of programming materials..<br>
 </div>
 
 ##
@@ -118,16 +118,7 @@
  <hr>
   
 ### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/heinrich"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=heinrich&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=heinrich&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=heinrich&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heinrich&theme=dracula" />
-    </span></a>
-</p>
-  
+
 <br>
   
 ### 🏆 GitHub Profile Trophy:

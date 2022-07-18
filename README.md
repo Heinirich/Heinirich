@@ -101,32 +101,10 @@
 </span>
 <hr> 
   
-<h3><b><samp>Check out my Repositories</samp></b></h3>
 
-<span>
-<a href="https://github.com/Heinirich/ultimate-kopokopo">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=heinrich&repo=ultimate-kopokopo" />
-</a>
-<a href="https://github.com/Heinirich/laravel-admin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heinrich&repo=laravel-admin" />
-</a>
-  </span>
   
 <hr>
-  
-### :zap: Recent Activity
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#69](https://github.com/hackclub/some-assembly-required/pull/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-2. 🗣 Commented on [#69](https://github.com/hackclub/some-assembly-required/issues/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-3. 🗣 Commented on [#69](https://github.com/hackclub/some-assembly-required/issues/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-4. 🗣 Commented on [#69](https://github.com/hackclub/some-assembly-required/issues/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-5. 💪 Opened PR [#69](https://github.com/hackclub/some-assembly-required/pull/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-<!--END_SECTION:activity-->
 
 
 <hr>

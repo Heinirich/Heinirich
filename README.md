@@ -38,15 +38,8 @@
 ##
 
 <div>
-<h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <samp><b>Currently at Bambanet Technologies in Kenya as Mid-Level Web Dev</b> <br>
-- 🔭 <samp>Degree in Information Technology<br>
-- 🧑🏽 <samp><b>Founder of Upcoming QashedIn in 2022</b><br>
-- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.<br>
-- 💬 <samp>Ask me about HTml/css/PHP-LARAVEL/Golang/Js/Linux/Cloud-Computing<br>
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming<br>
-- ⚡ <samp>Fun fact: 1+1=11<br>
-- ♟ <samp>I read a lot of programming materials..<br>
+<h3><b><samp>Where am I now?:</samp></b></h3>
+- 👷 <samp><b>Currently at Bambanet Technologies in Kenya as Mid-Level Web Dev</b> <samp>
 </div>
 
 ##

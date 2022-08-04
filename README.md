@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [ Heinrich Smith Ondeyo a.k.a DarkSpac3!](https://github.com/Heinirich)
+# Hello Everyone! I'm [ Heinrich Smith Ondeyo a.k.a DarkSpac3!](https://github.com/Heinirich)
 <br><br>
 
 <a href="https://www.linkedin.com/in/heinrich-smith-58a154133/">

@@ -27,7 +27,7 @@
 
 - 👷 <samp><b>Currently at Bambanet Technologies in Kenya as Mid-Level Web Dev</b>
 - 🔭 <samp>Degree in Information Technology
-- 🧑🏽 <samp><b>Founder of Upcoming QashedIn in 2022</b>
+- 🧑🏽 <samp><b>Founder of many things in 2023</b>
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about HTml/css/PHP-LARAVEL/Golang/Js/Linux/Cloud-Computing
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming

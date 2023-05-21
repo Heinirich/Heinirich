@@ -19,17 +19,17 @@
 
 <br><br>
 
-## <p align="center"><h4 align="center"><samp> An Software Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
+## <p align="center"><h4 align="center"><samp> A Software Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 
 <div>
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp><b>Currently at Bambanet Technologies in Kenya as Mid-Level Web Dev</b>
+- 👷 <samp><b>Currently at Identigate Integrated Solutions in Kenya as Software Engineer</b>
 - 🔭 <samp>Degree in Information Technology
 - 🧑🏽 <samp><b>Founder of many things in 2023</b>
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about HTml/css/PHP-LARAVEL/Golang/Js/Linux/Cloud-Computing
+- 💬 <samp>Ask me about HTml/css/Nuxt.js/Vue/PHP-LARAVEL/Golang/Js/Linux/Cloud-Computing
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: 1+1=11
 - ♟ <samp>I read a lot of programming materials..
@@ -39,7 +39,7 @@
 
 <div>
 <h3><b><samp>Where am I now?:</samp></b></h3>
-- 👷 <samp><b>Currently at Bambanet Technologies in Kenya as Mid-Level Web Dev</b> <samp>
+- 👷 <samp><b>Currently at Identigate Integrated Solutions in Kenya as Software Engineer</b> <samp>
 </div>
 
 ##

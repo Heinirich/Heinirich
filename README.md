@@ -25,13 +25,13 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp><b>Currently at Identigate Integrated Solutions in Kenya as Software Engineer</b>
+- 👷 <samp><b>Currently at Identigate Integrated Solutions in Kenya as Mid Level Software Engineer</b>
 - 🔭 <samp>Degree in Information Technology
 - 🧑🏽 <samp><b>Founder of many things in 2023</b>
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about HTml/css/Nuxt.js/Vue/PHP-LARAVEL/Golang/Js/Linux/Cloud-Computing
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: 1+1=11
+- ⚡ <samp>Fun fact: The First Computer Bug Was a Real Bug
 - ♟ <samp>I read a lot of programming materials..
 </div>
 
